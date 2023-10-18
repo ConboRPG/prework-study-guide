@@ -1,4 +1,4 @@
-var topic = "HTML";
+var topics = ['HTML', 'CSS', 'Git', 'Javascript'];
 
 for (var x = 0; x < WebTransportBidirectionalStream.length; x++) {
     console.log(topics[x]);
